@@ -1,1 +1,0 @@
-default_app_config = 'library_api.apps.LibraryApiConfig'
